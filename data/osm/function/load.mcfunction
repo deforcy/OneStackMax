@@ -7,7 +7,7 @@ scoreboard players set #-1 osm -1
 
 scoreboard players set #tick osm 0
 
-scoreboard players add #switch osm 0
+scoreboard players set #switch osm 1
 scoreboard players add #delay osm 0
 execute if score #delay osm <= #-1 osm run scoreboard players set #delay osm 2
 execute if score #switch osm <= #-1 osm run scoreboard players set #delay osm 1
