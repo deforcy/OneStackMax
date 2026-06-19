@@ -7,7 +7,7 @@
 ![Title](https://capsule-render.vercel.app/api?type=transparent&height=50&color=gradient&fontSize=50&text=OneStackMax&stroke=000&strokeWidth=2)
 
 ![MC](https://img.shields.io/badge/minecraft-1.21.7%2B-55a?style=flat)
-![License](https://img.shields.io/badge/License-Unlicence-green.svg?style=flat)
+![License](https://img.shields.io/badge/License-Unlicense-green.svg?style=flat)
 ![GitHub Repo stars](https://img.shields.io/github/stars/deforcy/OneStackMax)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)
   
