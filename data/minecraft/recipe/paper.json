@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": "minecraft:sugar_cane"
+    },
+    "pattern": [
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:paper",
+        "components": {
+            "minecraft:max_stack_size": 1
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_transmute",
+    "category": "equipment",
+    "group": "bundle_dye",
+    "input": "#minecraft:bundles",
+    "material": "minecraft:magenta_dye",
+    "result": {
+        "id": "minecraft:magenta_bundle",
+        "count": 1,
+        "components": {
+            "minecraft:max_stack_size": 1
+        }
+    }
+}

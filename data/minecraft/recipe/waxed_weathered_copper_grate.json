@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "key": {
+        "M": "minecraft:waxed_weathered_copper"
+    },
+    "pattern": [
+        " M ",
+        "M M",
+        " M "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:waxed_weathered_copper_grate",
+        "components": {
+            "minecraft:max_stack_size": 1
+        }
+    }
+}

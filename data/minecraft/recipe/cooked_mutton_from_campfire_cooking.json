@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "category": "food",
+    "cookingtime": 600,
+    "experience": 0.35,
+    "ingredient": "minecraft:mutton",
+    "result": {
+        "id": "minecraft:cooked_mutton",
+        "count": 1,
+        "components": {
+            "minecraft:max_stack_size": 1
+        }
+    }
+}

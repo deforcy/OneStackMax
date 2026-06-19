@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "stained_glass_pane",
+    "key": {
+        "#": "minecraft:glass_pane",
+        "$": "minecraft:cyan_dye"
+    },
+    "pattern": [
+        "###",
+        "#$#",
+        "###"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:cyan_stained_glass_pane",
+        "components": {
+            "minecraft:max_stack_size": 1
+        }
+    }
+}

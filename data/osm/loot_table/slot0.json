@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:dynamic",
+          "name": "minecraft:storage",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:score",
+                "target": "this",
+                "score": "slot_count",
+                "scale": 1
+              }
+            },
+            {
+              "function": "minecraft:set_count",
+              "count": -1,
+              "add": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "ingredients": [
+        "minecraft:dried_kelp_block"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:dried_kelp",
+        "components": {
+            "minecraft:max_stack_size": 1
+        }
+    }
+}

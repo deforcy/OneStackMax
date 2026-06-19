@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:blasting",
+    "category": "misc",
+    "cookingtime": 100,
+    "experience": 1.0,
+    "group": "emerald",
+    "ingredient": "minecraft:emerald_ore",
+    "result": {
+        "id": "minecraft:emerald",
+        "count": 1,
+        "components": {
+            "minecraft:max_stack_size": 1
+        }
+    }
+}

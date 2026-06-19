@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "#": "minecraft:brick"
+    },
+    "pattern": [
+        " # ",
+        "# #",
+        " # "
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:decorated_pot",
+        "components": {
+            "minecraft:max_stack_size": 1
+        }
+    }
+}

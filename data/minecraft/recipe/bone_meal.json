@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "group": "bonemeal",
+    "ingredients": [
+        "minecraft:bone"
+    ],
+    "result": {
+        "count": 1,
+        "id": "minecraft:bone_meal",
+        "components": {
+            "minecraft:max_stack_size": 1
+        }
+    }
+}
